@@ -19,6 +19,8 @@ MOSTRAR MAIS
    [ODP](https://github.com/haskellcamargo/talks/raw/master/Entendendo%20o%20Sistema%20de%20Tipos%20de%20TypeScript/Entendendo%20o%20Sistema%20de%20Tipos%20de%20TypeScript.odp)
    
   #### Introdução à Programação Funcional em Haskell
+  
+   [![Introdução à Programação Funcional em Haskell](http://img.youtube.com/vi/_xuQsxlndoE/0.jpg)](https://www.youtube.com/watch?v=_xuQsxlndoE)
    
    [PDF](https://github.com/haskellcamargo/talks/raw/master/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Funcional/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Funcional.pdf)
    
